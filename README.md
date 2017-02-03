@@ -2,5 +2,5 @@
 
 Hi! 
 
-I'm a scientist who want to imorove my coding skills.
+I'm a scientist who wants to imorove my coding skills.
 
